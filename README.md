@@ -1,6 +1,6 @@
 [![GitHub josedavidb](https://img.shields.io/github/followers/josedavidb?label=follow&style=social)](https://github.com/josedavidb)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-### 👨🏻‍💻 &nbsp;About Me
+###💻 &nbsp;About Me
 
 💡 &nbsp; I'm a software developer working as full stack developer with Django and Flask framework and also I have experiencie with Angular framework for frontend projects.\
 🎓 &nbsp;I'm currently studying Computer Engineering at Simon Bolivar University (2013-2021).\
