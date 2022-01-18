@@ -4,7 +4,7 @@
 ### 💻 &nbsp;About Me
 
 💡 &nbsp; I'm a software developer working as full stack developer with Django and Flask framework and also I have experiencie with Angular framework for frontend projects.\
-🎓 &nbsp;I'm currently studying Computer Engineering at Simon Bolivar University (2013-2021).\
+🎓 &nbsp;I'm a recent graduate in Computer Engineering at Simon Bolivar University (2013-2021).\
 🌱 &nbsp;I'm on track for learning more about Software Development and Artificial Intelligence.\
 💬 &nbsp;I'm native a Spanish speaker and trying to practice my English everyday
 
