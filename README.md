@@ -3,10 +3,10 @@
 
 ### 💻 &nbsp;About Me
 
-💡 &nbsp;I'm a Software Engineer working as full stack developer, improving my skills in software architecture and technical design.\
+💡 &nbsp;I'm a Senior Software Engineer working as full stack developer, improving my skills in software architecture and technical design.\
 🎓 &nbsp;I have a bachelor in Computer Engineering at Simon Bolivar University (2013-2022).\
 🌱 &nbsp;I'm on track for learning more about Software Development and Artificial Intelligence.\
-💬 &nbsp;I'm native a Spanish speaker and trying to practice my English everyday
+💬 &nbsp;I'm native a Spanish speaker and fluent in English
 
 ### 🛠 &nbsp;Tech Stack
 
